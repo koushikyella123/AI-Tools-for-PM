@@ -1,0 +1,15 @@
+ticker,weight,asset_class,sector,rating,duration_bucket
+AAPL,0.08,Equity,Technology,,
+MSFT,0.07,Equity,Technology,,
+JPM,0.05,Equity,Financials,,
+TSLA,0.04,Equity,Consumer Discretionary,,
+XOM,0.04,Equity,Energy,,
+UNH,0.04,Equity,Healthcare,,
+UST_3Y,0.10,Fixed Income,Sovereign,AAA,1-3Y
+UST_10Y,0.10,Fixed Income,Sovereign,AAA,7-10Y
+AAPL_2030,0.07,Fixed Income,Technology,A-,7-10Y
+IBM_2029,0.06,Fixed Income,Technology,A,5-7Y
+HYG_Index,0.08,Fixed Income,High Yield,BB,3-5Y
+EM_BOND_2028,0.07,Fixed Income,Emerging Markets,BBB,5-7Y
+JPM_2029,0.10,Fixed Income,Financials,A-,5-7Y
+XOM_2031,0.10,Fixed Income,Energy,A,7-10Y
